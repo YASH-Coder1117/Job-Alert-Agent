@@ -1,0 +1,24 @@
+# preferences:
+#   role: "AI Engineer"
+#   location: "India"
+#   experience: "fresher"
+#   skills:
+#     - python
+#     - machine learning
+#     - deep learning
+#     - nlp
+#   keywords:
+#     include: ["AI", "Machine Learning", "LLM", "NLP", "Python"]
+#     exclude: ["Senior", "Staff", "Manager", "Director", "Lead"]
+preferences:
+  role: "Frontend Developer"
+  location: "India"
+  experience: "fresher"
+  skills:
+    - react
+    - javascript
+    - typescript
+    - css
+  keywords:
+    include: ["React", "Vue", "Frontend", "UI", "Web"]
+    exclude: ["Senior", "Staff", "Manager", "Director", "Backend"]
